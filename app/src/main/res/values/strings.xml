@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Instacopy</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <string name="back4app_app_id">tSRT2vhJzRKev3MNQc9n3LUYllytmljJXcaImuK8</string>
+    <string name="back4app_client_key">7F5fIwaad9x6urY89qK2WVVD6Qwhxfwn7EHZxEUz</string>
+
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="instagram_logo">Instagram Logo</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="submit">Submit</string>
+    <string name="description">Description</string>
+    <string name="post_image_input">Post image input</string>
+    <string name="or">or</string>
+</resources>

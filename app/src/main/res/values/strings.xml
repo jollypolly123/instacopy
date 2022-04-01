@@ -16,4 +16,9 @@
     <string name="description">Description</string>
     <string name="post_image_input">Post image input</string>
     <string name="or">or</string>
+    <string name="home">Home</string>
+    <string name="compose">Compose</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
